@@ -39,7 +39,7 @@ Caused by: java.io.IOException: The process cannot access the file because anoth
 	at java.io.FileInputStream.read(FileInputStream.java:272)
 	at org.eclipse.jgit.util.IO.readFully(IO.java:303)
 	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:100)
-	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:184)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:184)q
 	... 8 more
 
 !ENTRY org.eclipse.egit.ui 4 0 2015-03-31 20:34:04.728
